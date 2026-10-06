@@ -1,0 +1,7 @@
+import BudgetCalculator from "./components/BudgetCalculator";
+
+function App() {
+  return <BudgetCalculator />;
+}
+
+export default App;
